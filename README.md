@@ -1,2 +1,2 @@
-# fullstack-JS-Learning
-This is a course repo from Linkedin Learning
+# learn-fullstack-javascript
+Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js
